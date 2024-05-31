@@ -1,0 +1,190 @@
+<VRTDataset rasterXSize="28801" rasterYSize="14401">
+  <SRS dataAxisToSRSAxisMapping="2,1">GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+  <GeoTransform> -1.0300013888888900e+02,  2.7777777777777799e-04,  0.0000000000000000e+00,  7.5000138888888898e+01,  0.0000000000000000e+00, -2.7777777777777799e-04</GeoTransform>
+  <VRTRasterBand dataType="Int16" band="1">
+    <ColorInterp>Gray</ColorInterp>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W096_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="25200" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W097_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="21600" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W098_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="18000" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W099_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="14400" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W100_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="10800" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N71W101_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="7200" yOff="10800" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W096_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="25200" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W097_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="21600" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W098_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="18000" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W099_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="14400" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W100_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="10800" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W101_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="7200" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W102_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="3600" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N72W103_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="0" yOff="7200" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W097_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="21600" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W098_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="18000" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W099_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="14400" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W100_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="10800" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W101_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="7200" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W102_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="3600" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N73W103_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="0" yOff="3600" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N74W097_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="21600" yOff="0" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N74W098_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="18000" yOff="0" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N74W099_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="14400" yOff="0" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N74W100_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="10800" yOff="0" xSize="3601" ySize="3601" />
+    </SimpleSource>
+    <SimpleSource resampling="nearest">
+      <SourceFilename relativeToVRT="0">D:\Karthaus\paleo mapping project\dem\ASTGTMV003_N74W101_dem.tif</SourceFilename>
+      <SourceBand>1</SourceBand>
+      <SourceProperties RasterXSize="3601" RasterYSize="3601" DataType="Int16" BlockXSize="256" BlockYSize="256" />
+      <SrcRect xOff="0" yOff="0" xSize="3601" ySize="3601" />
+      <DstRect xOff="7200" yOff="0" xSize="3601" ySize="3601" />
+    </SimpleSource>
+  </VRTRasterBand>
+  <OverviewList resampling="nearest">2</OverviewList>
+</VRTDataset>
